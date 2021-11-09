@@ -18,4 +18,4 @@ const deletarTarefa = (evento) => {
 
 }
 
-export default BotaoConclui
+export default BotaoDeleta
